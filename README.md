@@ -1,5 +1,3 @@
-<img width="1250" height="224" alt="image" src="https://github.com/user-attachments/assets/245cfddb-cfee-43a4-a7d6-ecc587d50cef" /># Regional Inventory vs Sales Analysis Dashboard
-
 ## Project Overview
 This project analyzes regional sales demand versus current inventory availability using map-based dashboards and pivot-driven analysis.
 
