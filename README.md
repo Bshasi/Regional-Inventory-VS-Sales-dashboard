@@ -1,4 +1,4 @@
-# Regional Inventory vs Sales Analysis Dashboard
+<img width="1250" height="224" alt="image" src="https://github.com/user-attachments/assets/245cfddb-cfee-43a4-a7d6-ecc587d50cef" /># Regional Inventory vs Sales Analysis Dashboard
 
 ## Project Overview
 This project analyzes regional sales demand versus current inventory availability using map-based dashboards and pivot-driven analysis.
@@ -21,4 +21,5 @@ This project analyzes regional sales demand versus current inventory availabilit
 - Performed state-level supply-demand analysis to generate business insights for decision making.
 
 ## Note
-Detailed dashboard workbook available upon request.
+## Dataset Download
+ [Download Excel Dataset]( https://1drv.ms/x/c/2e428700c80a520b/IQCv8QDuHu79T4QFqNC61Q7TAflvdaKGDmCH35vhw0JhRT4?e=Mhckh8)
